@@ -5,5 +5,5 @@
 大厅版不加载官网的JS中将的无法正常显示，加载之后下载地址无法自定义  
 我这里也进行上传了Se7en师傅的钓鱼弹窗源码，项目地址如下  
 https://github.com/r00tSe7en/Flash-Pop  
-##效果如图  
+## 效果如图  
 ![blockchain](https://github.com/lele8/Flash-New/blob/master/Flash.png)
